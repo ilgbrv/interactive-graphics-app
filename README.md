@@ -1,4 +1,3 @@
-# interactive-graphics-app
 # SuperRace — 2D Interactive Racing Simulator
 
 An interactive 2D desktop racing game built with Python and the Tkinter Canvas graphics environment. The project features automated environment scrolling, dynamic object physics, user betting interaction, and procedurally generated assets. 
