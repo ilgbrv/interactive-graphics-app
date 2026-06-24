@@ -23,7 +23,7 @@ Developed as a capstone project during the **Stanford University "Code in Place"
 
 1. Clone the repository:
 ```bash
-git clone https://github.com
+git clone https://github.com/ilgbrv/interactive-graphics-app
 ```
 
 2. Place the required `dashboard.png` image asset inside the project root folder.
